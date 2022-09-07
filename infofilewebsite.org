@@ -1,0 +1,97 @@
+#+title: Infofilewebsite
+#+hugo_base_dir: ~/Documents/School/schoolorg/websiteTLLCER
+* Stolen generations 1
+:PROPERTIES:
+:export_file_name: blog-post-name-in-url
+:export_description: my cool post
+:export_date: 2022-09-05
+:export_author: Mr Blackford
+:END:
+-----
+** Chapter 1 : Stolen Generations
+[Art et débat d’idées : Art et confrontation]
+
+What are you going to learn in this chapter?
+
+- You will learn about the bad treatment of Aboriginees in Australian past
+- You will learn how to describe an artwork (colours, sections, emphasis, lines and shapes) and interpret it
+- You will learn how to use SAY/TELL in English
+- Errors to avoid : S 3PS, S plural, Adjs = no 's', capital for adjective about a country
+- Vocabulary on Memrise about the topic (Aboriginees, Stolen Generation, saying sorry, describing a picture)
+-----
+** Lesson 1
+*** Document 1 : Aboriginees in Australia
+{{< youtube bpAS5f4TjNw >}}
+*** Document 2 : Taken away by Sally Morgan
+[See the image](https://www.agsa.sa.gov.au/collection-publications/collection/works/taken-away/29973/ "Link title")
+*** TE for document 2
+Taken Away by Sally Morgan
+This piece of art is colourful. There is a contrast between two cold colours : blue and white and three warm colours : yellow, orange and red. A yellow line in the middle seperates what looks like mothers, at the bottom, and children. At the top, there are several objects like big rocks or hills and suns. There are no shadows or straight lines. The picture is quite simple.
+This artwork makes us feel sad because the mothers are crying and stretching their hands out to their babies. The author's goal is to denounce the fact that some Aboriginee children were taken away from their families to be educated and civilized by white colonizers.
+*** Document 3 : Sandy’s story of the Mungee
+*** Vocabulary
+[Learn the vocabulary on Memrise](https://app.memrise.com/course/5785703/tllcer/ "This way!")
+*** Grammar
+Attention à bien distinguer le singulier et le pluriel (there is/there are; s à la fin des mots au pluriel); Mettez les s sur le verbe à la 3ème personne du singulier.
+
+Exam preparation : Describing an image
+
+Culture : In the 19th and 20th centuries in Australia, Aboriginal children were taken from their mothers and placed in settlements with the aim of giving them a British education.
+
+"When European people came to Australia, there were 300 languages"
+
+** Lesson 2
+*** TE for document 3
+1. It takes place in an orphanage, the characters are probably 6 years old except for Sandy who is older . The genre of the story is a play.
+2. It’s light all the time. Then one day all the birds flew away and night was created, the man steals children during the night so the tribe turns the man’s skin pale
+3. The mungee represents the colonizers who streal the children because in the text it says he steals the children and his skin is white.
+4. They should not be afraid of the dark but rather of white people
+5. The oral tradition is important for the transmision of the Aboriginal culture
+
+INSTEAD OF / RATHER = au lieu de / plutôt que
+
+*** Document 4 : John's Story
+{{< youtube aDuxRddyZQY >}}
+*** Document 5 : Took the children away by Archie Roach
+{{< youtube VeHGlJ32tak >}}
+*** Vocabulary
+Vocabulary about children and mistreatment
+*** Grammar
+TELL/SAY
+*** Exam practice
+Translation - of preterit in English by imparfait/passé simple in French. Attention aux accords en français quand vous traduisez.
+
+** Lesson 3
+*** Document 6 : Australian Prime Minister's apology speech (Feb 2008)
+{{< youtube b3TZOGpG6cM >}}
+*** Document 7 : National Sorry Day poster
+[National Sorry Day poster]( https://fr.wikipedia.org/wiki/National_Sorry_Day#/media/Fichier:Sorry_Day_poster.jpg "See the image")
+*** TE for Comparison of documents 2 and 7
+*** Vocabulary
+- words to talk about mistreatment/suffering : pain, suffering, hurt, grief, loss
+- words to talk about taking children away : remove from, removal, take away, to adopt, to place in a foster home, boys' home, girls' home, break up, split up
+- vocabulary about apologizing : to right a wrong, to say sorry for, to apologize for, apologetic, regretful, I shouldn't have done that, it was wrong of me to..., I am responsible for..., it was my fault.
+*** Exam practice
+EE - Il faut comparer les documents dans un dossier et trouver les points de convergence et de divergence. Est-ce que les documents sont complémentaires, contradictoires? Quels sont les points en commun? Quels sont les points de vue, les parties prises? Qu'est-ce qui est implicite/explicite etc.?
+Il est important d'apprendre des mots de liaison pour bien formuler ses idées à l'écrit
+
+
+* Chapter 2
+:PROPERTIES:
+:export_file_name: blog-post-name-in-url-2
+:export_description: my cool post
+:export_date: 2022-09-05
+:export_author: Adam B
+:END:
+
+CH 2 will be here
+
+* Chapter 3
+:PROPERTIES:
+:export_file_name: blog-post-name-in-url-3
+:export_description: my cool post
+:export_date: 2022-09-05
+:export_author: Adam B
+:END:
+
+CH 3 will be here
