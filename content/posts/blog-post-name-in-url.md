@@ -129,3 +129,11 @@ Translation - of preterit in English by imparfait/passé simple in French. Atten
 
 EE - Il faut comparer les documents dans un dossier et trouver les points de convergence et de divergence. Est-ce que les documents sont complémentaires, contradictoires? Quels sont les points en commun? Quels sont les points de vue, les parties prises? Qu'est-ce qui est implicite/explicite etc.?
 Il est important d'apprendre des mots de liaison pour bien formuler ses idées à l'écrit
+
+
+## Lesson 4 {#lesson-4}
+
+
+### Watching the film Australia {#watching-the-film-australia}
+
+Objective : Write a text to examine how the film denounces the mistreatment of Aboriginals
